@@ -1,0 +1,15 @@
+All codes except R scripts are written in perl language. 
+
+DEAnalysis_ovale.R - use for dual RNA-seq analysis pipeline for differential expression 
+
+RAF.pl - use to calculate reference allele frequency from mpileup files 
+
+RAF_excluderegions.pl - use to remove variant surface antigen genes from plasmodium mpileup files
+
+infection_diversity.pl - use to calculate pairwise nucleotide differences at conserved positions between samples from mpileup files
+
+mpileup_to_sequence.pl - use to generate nucleotide sequence of cytochrome B from plasmodium mpileup files
+
+rmdup_general.pl - use to remove PCR duplicates from bam files 
+
+Contact Kieran Tebben with questions: kieran.tebben@som.umaryland.edu
